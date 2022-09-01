@@ -6,7 +6,7 @@ Avanzado
 
 Ingrese ESC para salir`)
 
-while (nivel != "ESC" && nivel != "esc" && nivel != "Esc") {
+while (nivel != "ESC" && nivel != "esc" && nivel && "Esc") {
 
     switch (nivel) {
         case `Inicial`:
