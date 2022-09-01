@@ -1,15 +1,3 @@
-/*for (let i = 1; i <= 10; i++) {
-    let ingresarNombre = prompt ("Ingresar Nombre");
-
-    alert ("Turno Nro. " + i + " Nombre: " +  ingresarNombre);
-    
-    if (i == 10){
-        break
-    }
-}*/
-
-
-
 let nivel = prompt (`Ingrese su nivel de Javascript: 
 
 Inicial
